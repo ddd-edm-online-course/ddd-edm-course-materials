@@ -1,6 +1,6 @@
 = Materials for Domain-Driven Design and Event-Driven Microservices Online Course
 
-This class will be offered via [O'Reilly's Live Online Training Platform](https://www.safaribooksonline.com/live-training/) on a semi-monthly basis. Watch the link for scheduled offerings!
+This class will be offered via https://www.safaribooksonline.com/live-training/[O'Reilly's Live Online Training Platform] on a semi-monthly basis. Watch the link for scheduled offerings!
 
 == Syllabus
 
