@@ -70,7 +70,7 @@ Without GitHub and TravisCI accounts, you can still download the course material
 
 ==== Day One:
 
-**Class Introduction** (10 minutes)
+link:slides/00-intro.pdf[**Class Introduction**] (10 minutes)
 
 * Intro to the Course
 * Intro to the Instructor
