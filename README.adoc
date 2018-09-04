@@ -77,7 +77,7 @@ Without GitHub and TravisCI accounts, you can still download the course material
 * Class Logistics
 * Class Outline
 
-**Lecture:** Why do we need DDD? (15 minutes)
+**Lecture:** link:slides/01-why-ddd.pdf[Why do we need DDD?] (15 minutes)
 
 **Lecture:** What is Ubiquitous Language and why is it so important? (15 minutes)
 
