@@ -93,7 +93,7 @@ link:slides/00-intro.pdf[**Class Introduction**] (10 minutes)
 
 **Open Q&A and Class Discussion:** Tactical Design (10 minutes)
 
-**Lecture:** Overview of Event Storming (15 minutes)
+**Lecture:** link:slides/05-event-storming.pdf[Overview of Event Storming] (15 minutes)
 
 **Break** (10 minutes)
 
