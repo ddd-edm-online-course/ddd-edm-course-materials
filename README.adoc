@@ -79,7 +79,7 @@ link:slides/00-intro.pdf[**Class Introduction**] (10 minutes)
 
 **Lecture:** link:slides/01-why-ddd.pdf[Why do we need DDD?] (15 minutes)
 
-**Lecture:** What is Ubiquitous Language and why is it so important? (15 minutes)
+**Lecture:** link:slides/02-ubiquitous-lang.pdf[What is Ubiquitous Language and why is it so important?] (15 minutes)
 
 **Open Q&A and Class Discussion:** Why DDD / Ubiquitous Language (10 minutes)
 
