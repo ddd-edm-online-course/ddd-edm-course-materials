@@ -85,7 +85,7 @@ link:slides/00-intro.pdf[**Class Introduction**] (10 minutes)
 
 **Break** (10 minutes)
 
-**Lecture:** DDD 101 - Strategic Design: Bounded Contexts, Context Mapping, Subdomains (25 minutes)
+**Lecture:** link:slides/03-strategic-design.pdf[DDD 101 - Strategic Design: Bounded Contexts, Context Mapping, Subdomains] (25 minutes)
 
 **Open Q&A and Class Discussion:** Strategic Design (10 minutes)
 
