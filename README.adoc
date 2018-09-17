@@ -105,7 +105,7 @@ link:slides/00-intro.pdf[**Class Introduction**] (10 minutes)
 
 **Interactive Screen Share:** Pizza Shop Event Storming solution (15 minutes)
 
-**Lecture:** Discuss how Event Storm concepts translate into DDD concepts, User Stories, and TDD code (20 minutes)
+**Lecture:** link:slides/07-event-storm-to-ddd-stories-tdd.pdf[Discuss how Event Storm concepts translate into DDD concepts, User Stories, and TDD code] (20 minutes)
 
 **Open Q&A and Class Discussion:** Day One AMA (10 minutes)
 
