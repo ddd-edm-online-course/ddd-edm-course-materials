@@ -89,7 +89,7 @@ link:slides/00-intro.pdf[**Class Introduction**] (10 minutes)
 
 **Open Q&A and Class Discussion:** Strategic Design (10 minutes)
 
-**Lecture:** link:slides/04-strategic-design.pdf[DDD 101 - Tactical Design: Aggregates, Entities, Value Objects, Domain Events, Application Services, Domain Services] (25 minutes)
+**Lecture:** link:slides/04-tactical-design.pdf[DDD 101 - Tactical Design: Aggregates, Entities, Value Objects, Domain Events, Application Services, Domain Services] (25 minutes)
 
 **Open Q&A and Class Discussion:** Tactical Design (10 minutes)
 
