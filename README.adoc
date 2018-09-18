@@ -113,7 +113,7 @@ link:slides/00-intro.pdf[**Class Introduction**] (10 minutes)
 
 **Day One Recap** (10 minutes)
 
-**Lecture:** DDD and Technical Architectures (25 minutes)
+**Lecture:** link:slides/08-ddd-tech-arch.pdf[DDD and Technical Architectures] (25 minutes)
 
 **Break** (10 minutes)
 
