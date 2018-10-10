@@ -64,7 +64,7 @@ At this point, you'll want to pick up with the instructions found in the *README
 
 ==== Setup Path for Basic Participation
 
-Without GitHub and TravisCI accounts, you can still download the course materials manually, as a https://github.com/ddd-edm-online-course/2018-09-18-oreilly-online-trng/archive/master.zip[ZIP file]; you just will not receive personalized feedback on the exercises.
+Without GitHub and TravisCI accounts, you can still download the course materials manually, as a https://github.com/ddd-edm-online-course/2018-10-15-oreilly-online-trng/archive/master.zip[ZIP file]; you just will not receive personalized feedback on the exercises.
 
 === Schedule:
 
