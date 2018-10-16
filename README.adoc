@@ -111,7 +111,7 @@ link:slides/00-intro.pdf[**Class Introduction**] (10 minutes)
 
 ==== Day Two:
 
-**Day One Recap** (10 minutes)
+**link:slides/07b-day-one-recap.pdf[Day One Recap]** (10 minutes)
 
 **Lecture:** link:slides/08-ddd-tech-arch.pdf[DDD and Technical Architectures] (25 minutes)
 
