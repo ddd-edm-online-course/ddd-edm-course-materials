@@ -38,7 +38,7 @@ The exercises for this course will be enhanced and will provide personalized, re
 
 Accounts with those services are optional, but strongly recommended for the best experience.
 
-. Each class offering has a unique GitHub Classroom invitation link. The link for the January 2019 offering is: https://classroom.github.com/a/PoQeAjUn. Click on it.
+. Each class offering has a unique GitHub Classroom invitation link. The link for the February 2019 Software Architecture Conference offering is: https://classroom.github.com/a/68TqzACk. Click on it.
 
 . You will be asked to authorize GitHub Classroom to access data from your GitHub account. You will have to accept to continue. If you are not comfortable with this authorization, please continue to the *Setup Path for Basic Participation*.
 +
@@ -64,7 +64,7 @@ At this point, you'll want to pick up with the instructions found in the *README
 
 ==== Setup Path for Basic Participation
 
-Without GitHub and TravisCI accounts, you can still download the course materials manually, as a https://github.com/ddd-edm-online-course/2019-01-22-oreilly-online-trng/archive/master.zip[ZIP file]; you just will not receive personalized feedback on the exercises.
+Without GitHub and TravisCI accounts, you can still download the course materials manually, as a https://github.com/ddd-edm-online-course/2019-02-oreilly-sacon/archive/master.zip[ZIP file]; you just will not receive personalized feedback on the exercises.
 
 === Schedule:
 
