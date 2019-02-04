@@ -1,0 +1,6 @@
+= Resource Links from 2019 Software Architecture Conference (NYC)
+
+* https://realtimeboard.com/app/board/o9J_kzSVCZM=/[Pizza Shop Event Storm Solution]
+* http://www.appcontinuum.io/[The Application Continuum]
+* https://github.com/odrotbohm/sos[Refactoring to a System of Systems]
+* https://www.archunit.org/[ArchUnit]
