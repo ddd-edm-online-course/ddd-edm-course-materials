@@ -4,3 +4,6 @@
 * http://www.appcontinuum.io/[The Application Continuum]
 * https://github.com/odrotbohm/sos[Refactoring to a System of Systems]
 * https://www.archunit.org/[ArchUnit]
+* https://github.com/mstine/pizza-shop-example/tree/3.0-components[Pizza Shop with Components and Anti-Corruption Layers]
+* https://github.com/mstine/pizza-shop-example/tree/4.0-jdbc[Pizza Shop with JDBC Repository Adapters and H2 DB]
+* https://github.com/mstine/kafka-event-log[Proof of Concept of Kafka-based EventLog for Pizza Shop]
