@@ -7,3 +7,4 @@
 * https://github.com/mstine/pizza-shop-example/tree/3.0-components[Pizza Shop with Components and Anti-Corruption Layers]
 * https://github.com/mstine/pizza-shop-example/tree/4.0-jdbc[Pizza Shop with JDBC Repository Adapters and H2 DB]
 * https://github.com/mstine/kafka-event-log[Proof of Concept of Kafka-based EventLog for Pizza Shop]
+* https://github.com/ddd-edm-online-course/2019-02-oreilly-sacon[COMPLETED LAB SOLUTIONS!]
