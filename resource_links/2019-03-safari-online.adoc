@@ -1,0 +1,8 @@
+= Resource Links from 2019 Software Architecture Conference (NYC)
+
+* https://realtimeboard.com/app/board/o9J_kzSVCZM=/[Pizza Shop Event Storm Solution]
+* https://realtimeboard.com/app/board/o9J_kyYPn00=/[Scratch Board for Mob Event Storm]
+* https://github.com/mstine/pizza-shop-example/tree/3.0-components[Pizza Shop with Components and Anti-Corruption Layers]
+* https://github.com/mstine/pizza-shop-example/tree/4.0-jdbc[Pizza Shop with JDBC Repository Adapters and H2 DB]
+* https://github.com/mstine/kafka-event-log[Proof of Concept of Kafka-based EventLog for Pizza Shop]
+* https://github.com/ddd-edm-online-course/2019-03-06-oreilly-online-trng[COMPLETED LAB SOLUTIONS!]
