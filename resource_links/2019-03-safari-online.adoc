@@ -1,4 +1,4 @@
-= Resource Links from 2019 Software Architecture Conference (NYC)
+= Resource Links from March 2019 Safari Online Class
 
 * https://realtimeboard.com/app/board/o9J_kzSVCZM=/[Pizza Shop Event Storm Solution]
 * https://realtimeboard.com/app/board/o9J_kyYPn00=/[Scratch Board for Mob Event Storm]
