@@ -7,3 +7,11 @@
 * https://github.com/mstine/kafka-event-log[Proof of Concept of Kafka-based EventLog for Pizza Shop]
 * https://github.com/ddd-edm-online-course/2019-03-06-oreilly-online-trng[COMPLETED LAB SOLUTIONS!]
 * https://scs-architecture.org/[Self-Contained Systems]
+
+== Videos Related to Legacy Modernization
+
+* https://www.youtube.com/watch?v=s8ujrfPaFVM
+* https://www.youtube.com/watch?v=VWefNT8Lb74
+* https://www.youtube.com/watch?v=by8SdfF56vI
+* https://www.youtube.com/watch?v=jx0Qc1TJK30
+* https://www.youtube.com/watch?v=neL3OQ1GRhY
