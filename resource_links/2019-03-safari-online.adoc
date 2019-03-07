@@ -7,6 +7,8 @@
 * https://github.com/mstine/kafka-event-log[Proof of Concept of Kafka-based EventLog for Pizza Shop]
 * https://github.com/ddd-edm-online-course/2019-03-06-oreilly-online-trng[COMPLETED LAB SOLUTIONS!]
 * https://scs-architecture.org/[Self-Contained Systems]
+* http://c4model.com/[C4 Model for Software Architecture]
+* https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/[Microservices Blog Series from Confluent... discusses ES/CQRS]
 
 == Videos Related to Legacy Modernization
 
