@@ -6,3 +6,4 @@
 * https://github.com/mstine/pizza-shop-example/tree/4.0-jdbc[Pizza Shop with JDBC Repository Adapters and H2 DB]
 * https://github.com/mstine/kafka-event-log[Proof of Concept of Kafka-based EventLog for Pizza Shop]
 * https://github.com/ddd-edm-online-course/2019-03-06-oreilly-online-trng[COMPLETED LAB SOLUTIONS!]
+* https://scs-architecture.org/[Self-Contained Systems]
