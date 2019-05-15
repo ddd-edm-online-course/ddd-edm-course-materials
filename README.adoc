@@ -25,7 +25,7 @@ Fortunately, there is a mature, battle-tested approach to domain modeling and sy
 * Java 8
 * Maven (recent)
 * Git
-The IDE/editor you are most comfortable using (make sure you have the Lombok plugin installed! Instructions for https://projectlombok.org/setup/eclipse[Eclipse] and https://projectlombok.org/setup/intellij[IntelliJ] are linked).
+* The IDE/editor you are most comfortable using (make sure you have the Lombok plugin installed! Instructions for https://projectlombok.org/setup/eclipse[Eclipse] and https://projectlombok.org/setup/intellij[IntelliJ] are linked).
 
 *Free SaaS accounts (optional):*
 
