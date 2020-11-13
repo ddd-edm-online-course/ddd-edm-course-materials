@@ -22,23 +22,23 @@ Fortunately, there is a mature, battle-tested approach to domain modeling and sy
 
 *Your computer should be set up with the following capabilities:*
 
-* Java 8
+* Java 11
 * Maven (recent)
 * Git
 * The IDE/editor you are most comfortable using (make sure you have the Lombok plugin installed! Instructions for https://projectlombok.org/setup/eclipse[Eclipse] and https://projectlombok.org/setup/intellij[IntelliJ] are linked).
 
 *Free SaaS accounts (optional):*
 
-* It will be helpful to have a free https://realtimeboard.com/[RealtimeBoard] account. Alternatively, keep handy a presentation or diagramming tool that you are comfortable using.
-* Set up a (free) account with both https://github.com/[GitHub] and https://travis-ci.com/[TravisCI], if possible (see below).
+* It will be helpful to have a (free) https://miro.com/[Miro] account. Alternatively, keep handy a presentation or diagramming tool that you are comfortable using.
+* Set up a (free) account with https://github.com/[GitHub].
 
 ==== (Optional) Setup Path for Enhanced Feedback
 
-The exercises for this course will be enhanced and will provide personalized, real-time feedback if you have (free) accounts with both GitHub and TravisCI. We will use GitHub Classroom to generate a private repository for each participant, and TravisCI will automatically run tests against code exercises submitted to each repository. The instructor will be able to see your code submissions, but no one else.
+The exercises for this course will be enhanced and will provide personalized, real-time feedback if you have a (free) account with GitHub. We will use GitHub Classroom to generate a private repository for each participant, and it will use GitHub Actions to automatically run tests against code exercises submitted to each repository. The instructor will be able to see your code submissions, but no one else.
 
-Accounts with those services are optional, but strongly recommended for the best experience.
+A GitHub account is optional, but strongly recommended for the best experience.
 
-. Each class offering has a unique GitHub Classroom invitation link. The link for the SDD 2019 offering is: https://classroom.github.com/a/0gzJCeW_. Click on it.
+. Each class offering has a unique GitHub Classroom invitation link. The link for the February 2021 offering is: <TBD>. Click on it.
 
 . You will be asked to authorize GitHub Classroom to access data from your GitHub account. You will have to accept to continue. If you are not comfortable with this authorization, please continue to the *Setup Path for Basic Participation*.
 +
@@ -64,7 +64,7 @@ At this point, you'll want to pick up with the instructions found in the *README
 
 ==== Setup Path for Basic Participation
 
-Without GitHub and TravisCI accounts, you can still download the course materials manually, as a https://github.com/ddd-edm-online-course/2019-05-24-sdd/archive/master.zip[ZIP file]; you just will not receive personalized feedback on the exercises.
+Without a GitHub account, you can still download the course materials manually, as a https://github.com/<TODO>[ZIP file]; you just will not receive personalized feedback on the exercises.
 
 === Schedule:
 
