@@ -48,7 +48,7 @@ image::assets/authorize.png[]
 +
 image::assets/accept_assignment.png[]
 
-. Creating your repo and copying over the lab environment will take a moment. You'll likely see a progress screen similar to this one:
+. Creating your repo and copying over the lab environment will take a moment. You'll likely see a notification screen similar to this one. Refresh the page to see progress:
 +
 image::assets/progress.png[]
 
