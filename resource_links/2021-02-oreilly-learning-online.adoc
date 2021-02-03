@@ -1,0 +1,4 @@
+= Resource Links from February 2021 O'Reilly Learning Online Class
+
+* https://miro.com/app/board/o9J_kzSVCZM=/[Pizza Shop Event Storm Solution]
+* https://miro.com/app/board/o9J_lVizw-c=/[Scratch Board for Mob Event Storm]
