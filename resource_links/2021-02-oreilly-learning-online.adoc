@@ -4,3 +4,5 @@
 * https://miro.com/app/board/o9J_lVizw-c=/[Scratch Board for Mob Event Storm]
 * https://scs-architecture.org/[Self-Contained Systems]
 * https://dl.acm.org/doi/10.1145/361598.361623[Parnas Paper on ACM Digital Library]
+* https://www.oreilly.com/library/view/responsible-microservices/9781492085294/[Responsible Microservices by Nate Schutta]
+* https://builttoadapt.io/whats-your-decomposition-strategy-e19b8e72ac8f[What's Your Decomposition Strategy?]
