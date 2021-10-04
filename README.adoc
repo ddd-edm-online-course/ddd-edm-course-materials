@@ -38,7 +38,7 @@ The exercises for this course will be enhanced and will provide personalized, re
 
 A GitHub account is optional, but strongly recommended for the best experience.
 
-. Each class offering has a unique GitHub Classroom invitation link. The link for the April 2021 offering is: https://classroom.github.com/a/BmHjo3ZY[2021-04-27-oreilly-online-trng]. Click on it.
+. Each class offering has a unique GitHub Classroom invitation link. The link for the October 2021 offering is: https://classroom.github.com/a/gw69NMGA[2021-10-12-oreilly-online-trng]. Click on it.
 
 . You will be asked to authorize GitHub Classroom to access data from your GitHub account. You will have to accept to continue. If you are not comfortable with this authorization, please continue to the *Setup Path for Basic Participation*.
 +
@@ -64,7 +64,7 @@ At this point, you'll want to pick up with the instructions found in the *README
 
 ==== Setup Path for Basic Participation
 
-Without a GitHub account, you can still download the course materials manually, as a https://github.com/ddd-edm-online-course/2021-04-27-oreilly-online-trng/archive/refs/heads/master.zip[ZIP file]; you just will not receive personalized feedback on the exercises.
+Without a GitHub account, you can still download the course materials manually, as a https://github.com/ddd-edm-online-course/2021-10-12-oreilly-online-trng/archive/refs/heads/master.zip[ZIP file]; you just will not receive personalized feedback on the exercises.
 
 === Schedule:
 
