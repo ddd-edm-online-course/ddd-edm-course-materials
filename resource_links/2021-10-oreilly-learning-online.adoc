@@ -1,0 +1,5 @@
+
+= Resource Links from October 2021 O'Reilly Learning Online Class
+
+* https://miro.com/app/board/o9J_lrXYQNI=/[October 2021 Scratch Board for Event Storm Demo]
+* https://miro.com/app/board/o9J_kzSVCZM=/[Pizza Shop Event Storm Solution]
