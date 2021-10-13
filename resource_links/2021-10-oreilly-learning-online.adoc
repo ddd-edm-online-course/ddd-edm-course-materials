@@ -3,3 +3,7 @@
 
 * https://miro.com/app/board/o9J_lrXYQNI=/[October 2021 Scratch Board for Event Storm Demo]
 * https://miro.com/app/board/o9J_kzSVCZM=/[Pizza Shop Event Storm Solution]
+* https://microservices.io/patterns/data/saga.html[Saga Pattern]
+* https://axoniq.io/product-overview/axon[Axon]
+* https://www.lagomframework.com/[Lagom]
+* https://github.com/xmolecules[xMolecules]
