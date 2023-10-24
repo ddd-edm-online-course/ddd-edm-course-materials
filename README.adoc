@@ -1,6 +1,6 @@
 = Materials for Domain-Driven Design and Event-Driven Microservices Online Course
 
-This class will be offered via https://www.oreilly.com/attend/[O'Reilly's Live Online Training Platform] on a semi-monthly basis. Watch the link for scheduled offerings!
+This class will be offered via https://www.oreilly.com/attend/[O'Reilly's Live Online Training Platform] on a periodic basis. Watch the link for scheduled offerings!
 
 == Syllabus
 
@@ -14,7 +14,6 @@ Fortunately, there is a mature, battle-tested approach to domain modeling and sy
 * We will leverage multiple technical architecture concepts in this course. Vaughn Vernon provides a great overview of them in https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/ch04.html[Chapter 4 of _Implementing Domain-Driven Design_].
 * Understanding Test-Driven Development is key to programming exercises we’ll complete. https://www.oreilly.com/library/view/test-driven-development/0321146530/[_Test-Driven Development: By Example_] is a classic treatment of these concepts. You may also find https://www.oreilly.com/library/view/growing-object-oriented-software/9780321574442/[_Growing Object-Oriented Software, Guided by Tests_] a nice contextual treatment of TDD, mock objects, and object-oriented design.
 * We will use the Java programming language, as well as testing libraries such as https://junit.org/[JUnit], https://site.mockito.org/[Mockito], and http://joel-costigliola.github.io/assertj/[AssertJ]. You should be comfortable with Java programming and automated testing libraries.
-* Familiarity with Git and GitHub will be required. If you need to brush up your Git(Hub) skills, this https://www.oreilly.com/library/view/git-and-github/9781789137293/[Complete Git and GitHub Masterclass] can be helpful.
 
 === Setup Instructions:
 
@@ -24,47 +23,17 @@ Fortunately, there is a mature, battle-tested approach to domain modeling and sy
 
 * Java 11
 * Maven (recent)
-* Git
 * The IDE/editor you are most comfortable using (make sure you have the Lombok plugin installed! Instructions for https://projectlombok.org/setup/eclipse[Eclipse] and https://projectlombok.org/setup/intellij[IntelliJ] are linked).
 
 *Free SaaS accounts (optional):*
 
 * It will be helpful to have a (free) https://miro.com/[Miro] account. Alternatively, keep handy a presentation or diagramming tool that you are comfortable using.
-* Set up a (free) account with https://github.com/[GitHub].
 
-==== (Optional) Setup Path for Enhanced Feedback
+==== Labs
 
-The exercises for this course will be enhanced and will provide personalized, real-time feedback if you have a (free) account with GitHub. We will use GitHub Classroom to generate a private repository for each participant, and it will use GitHub Actions to automatically run tests against code exercises submitted to each repository. The instructor will be able to see your code submissions, but no one else.
+You can download the lab exercises from the following GitHub repo: https://github.com/ddd-edm-online-course/ddd-edm-course-lab-tmpl.
 
-A GitHub account is optional, but strongly recommended for the best experience.
-
-. Each class offering has a unique GitHub Classroom invitation link. The link for the July 2022 offering is: https://classroom.github.com/a/-gGLeJxD[2022-07-26-oreilly-online-trng]. Click on it.
-
-. You will be asked to authorize GitHub Classroom to access data from your GitHub account. You will have to accept to continue. If you are not comfortable with this authorization, please continue to the *Setup Path for Basic Participation*.
-+
-image::assets/authorize.png[]
-
-. Next you need to accept the assignment for this course, which will trigger the creation of your private repo.
-+
-image::assets/accept_assignment.png[]
-
-. Creating your repo and copying over the lab environment will take a moment. You'll likely see a notification screen similar to this one. Refresh the page to see progress:
-+
-image::assets/progress.png[]
-
-. Once your repository is complete, you can click on the link to visit it:
-+
-image::assets/ready_to_go.png[]
-
-. Copy the clone URL for your repo and clone it to your machine using `git clone <REPO URL>`.
-+
-image::assets/clone.png[]
-
-At this point, you'll want to pick up with the instructions found in the *README* of your private clone of the lab environment!
-
-==== Setup Path for Basic Participation
-
-Without a GitHub account, you can still download the course materials manually, as a https://github.com/ddd-edm-online-course/2022-07-26-oreilly-online-trng/archive/refs/heads/master.zip[ZIP file]; you just will not receive personalized feedback on the exercises.
+Alternatively, click here to download the repository as a ZIP file: https://github.com/ddd-edm-online-course/ddd-edm-course-lab-tmpl/archive/refs/heads/master.zip.
 
 === Schedule:
 
